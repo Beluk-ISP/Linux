@@ -1,3 +1,6 @@
+Готовая VM'ка
+https://drive.google.com/file/d/10gzkgOg547zPtF2DvheOll1ZEbNDSTQS/view?usp=sharing
+
 Перед началой работой нам нужно будет установить виртуальную машину на Oracle VM VirtualBox.
 При этом для комфортной работы, машине нужно будет выделить:
 - 20ГБ+ места на жестком диске
