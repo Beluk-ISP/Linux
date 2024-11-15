@@ -255,6 +255,13 @@ Authentication
 
 ![изображение](https://github.com/user-attachments/assets/6af8ffd5-9072-4e1d-97d9-df0839ce1e11)
 
+
+Переходим на localhost:8428, нажимаем на vmui, копируем переменную OILCOINT_metric1 и вставляем в query
+
+Нажимаем execute query
+
+![изображение](https://github.com/user-attachments/assets/b1db9ea6-dd63-4db5-804f-0267cfcdcc19)
+
 Копируем переменную OILCOINT_metric1 и вставляем в code и нажимаем run queries
 
 ![изображение](https://github.com/user-attachments/assets/20d90e97-8f10-4428-97b4-be9a56df2277)
